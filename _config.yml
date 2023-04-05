@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: B6lab's homepage
 description: Audio Applications
-url: "https://github.com/b6lab/b6lab.github.io"
+github:
+  url: https://github.com/b6lab/b6lab.github.io"
 email: "b6lab.team@gmail.com"
