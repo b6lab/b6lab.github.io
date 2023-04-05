@@ -1,2 +1,2 @@
-# b6lab.github.io
+# B6lab
 Audio Application Developer
