@@ -4,7 +4,7 @@
 **A:** Go to <em>Settings > Notifications > App settings</em>. In the dropdown menu, choose All apps, then enable notification for Bass Lab.
 
 **Q:** Global Mix mode doesn't seem to work \
-**A:** Depending on the phone model, it is possible that Global Mix mode doesn't work \
+**A:** Depending on the phone model, it is possible that Global Mix mode doesn't work.
 
 **Q:** Observer mode doesn't seem to work with some apps \
 **A:** Observer mode doesn't work with apps like YouTube, Tiktok or SoundCloud because these apps don't broadcast their audio data to other apps. Also apps like Spotify or Youtube Music only broadcast their audio data when the play button is pressed. So, make sure Bass Lab is launched before opening any media stream.
