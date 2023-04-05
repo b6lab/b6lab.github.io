@@ -2,6 +2,8 @@
 **Q:** Notification doesn't show when swipe down
 **A:** Go to <em>Settings > Notifications > App settings</em>. In the dropdown menu, choose All apps, then enable notification for Bass Lab.
 
+---
+
 **Q:** Global Mix mode doesn't seem to work
 **A:** Depending on the phone model, it is possible that Global Mix mode doesn't work
 
