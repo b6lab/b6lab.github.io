@@ -1,4 +1,4 @@
-###FAQ
+### FAQ
 **Q:** Notification doesn't show when swipe down
 **A:** Go to <em>Settings > Notifications > App settings</em>. In the dropdown menu, choose All apps, then enable notification for Bass Lab.
 
@@ -16,7 +16,7 @@
 **A:**
 Step 1: Enable developer mode on your phone
 Step 2: Enable usb debugging on your phone. For Realme and Oppo, disable permission monitoring (<em>Settings > Security Center</em>)
-Step 3: On your computer, install SDK Platform Tools: [https://developer.android.com/studio/releases/platform-tools]https://developer.android.com/studio/releases/platform-tools
+Step 3: On your computer, install SDK Platform Tools: [https://developer.android.com/studio/releases/platform-tools] https://developer.android.com/studio/releases/platform-tools
 Step 4: Make sure the system path is updated: <em>Your-Directory</em>/Sdkplatform-tools
 Step 5: Connect your device to a computer, using an usb cable
 Step 6: On Windows, open Command Prompt. On MacOS/Linux, open a terminal
