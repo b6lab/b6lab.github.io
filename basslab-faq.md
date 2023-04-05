@@ -21,7 +21,7 @@ Step 3: On your computer, install SDK Platform Tools: https://developer.android.
 Step 4: Make sure the system path is updated: <em>Your-Directory</em>/Sdkplatform-tools \
 Step 5: Connect your device to a computer, using an usb cable \
 Step 6: On Windows, open Command Prompt. On MacOS/Linux, open a terminal \
-Step 7: type <em>abd shell pm grant com.b6lab.basslab android.permission.DUMP</em> then hit <em>Enter</em> \
+Step 7: type <em>abd shell pm grant com.b6lab.basslab android.permission.DUMP</em> then hit <em>Enter</em>
 
 **Q:** How to refresh Bass Lab? \
 **A:** By turning off/on a preset. \
